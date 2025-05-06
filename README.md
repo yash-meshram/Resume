@@ -20,28 +20,24 @@ AI/ML developer with hands-on experience building and deploying intelligent appl
 ## Projects
 
 ### Cold Email Generator ([GitHub](https://github.com/yash-meshram/Cold-Email-Generator))
-- Developed an AI-powered application to automate personalized cold email generation for job applications using Llama 3 8B Instant via Groq API.
-- Implemented web scraping and NLP pipelines to extract and parse job postings, matching portfolio projects to job requirements using vector search (ChromaDB).
-- Built a Streamlit-based user interface for seamless job URL input, project matching, and email generation.
-- Integrated LangChain for advanced language modeling and portfolio relevance scoring, enhancing outreach effectiveness.
+- Developed an AI-powered app for personalized cold email generation using Llama 3 8B Instant via Groq API.
+- Automated job posting parsing and project matching with NLP pipelines and vector search (ChromaDB).
+- Built a Streamlit UI and integrated LangChain for advanced language modeling and relevance scoring.
 
 ### Bank Direct Marketing: Term Deposit Subscription Prediction ([GitHub](https://github.com/yash-meshram/Bank-Direct-Marketing))
-- Engineered a machine learning pipeline to predict term deposit subscriptions using demographic, campaign, and socio-economic data.
-- Addressed severe class imbalance with advanced resampling techniques (RandomOverSampler) and robust feature encoding.
-- Achieved a cross-validated F1 score of 0.454 using CatBoostClassifier with hyperparameter tuning and 5-fold cross-validation.
-- Conducted comprehensive EDA, feature selection, and model benchmarking to optimize campaign targeting strategies.
+- Engineered a machine learning pipeline to predict term deposit subscriptions from complex data.
+- Tackled class imbalance with advanced resampling and robust feature encoding.
+- Achieved a cross-validated F1 score of 0.454 using CatBoostClassifier with hyperparameter tuning.
 
 ### Insurance Premium Prediction ([GitHub](https://github.com/yash-meshram/Insurance-Premium))
-- Built an end-to-end regression solution to predict insurance premiums leveraging LightGBM with cross-validation and ensemble methods.
-- Performed extensive feature engineering, including date extraction, interaction features, and power transformations for improved accuracy.
-- Automated data preprocessing: missing value imputation, normalization (Yeo-Johnson), and one-hot encoding for categorical variables.
-- Visualized feature importances and model performance, achieving a mean CV RMSLE of 1.0524.
+- Built an end-to-end regression solution for insurance premium prediction using LightGBM.
+- Automated data preprocessing, feature engineering, and model evaluation for improved accuracy.
+- Visualized feature importances and achieved a mean CV RMSLE of 1.0524.
 
 ### Machine Learning & Deep Learning Framework ([GitHub](https://github.com/yash-meshram/MachineLearning-DeepLearning))
-- Designed a modular framework for building, training, and evaluating machine learning and deep learning models (NumPy and TensorFlow).
-- Implemented custom linear/logistic regression, neural networks from scratch, and TensorFlow/Keras-based deep learning pipelines.
-- Developed tools for model selection, cross-validation, and performance visualization for both regression and classification tasks.
-- Integrated symbolic differentiation (SymPy) and advanced optimization algorithms (Adam) for educational and research purposes.
+- Designed a modular framework for building and evaluating ML/DL models (NumPy, TensorFlow).
+- Implemented custom regression, neural networks, and deep learning pipelines from scratch.
+- Developed tools for model selection, cross-validation, and performance visualization.
 
 
 
