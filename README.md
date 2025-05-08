@@ -5,7 +5,7 @@
 
 ## Summary
 
-AI/ML developer with hands-on experience building and deploying intelligent applications, including NLP pipelines, vector search, and end-to-end machine learning solutions. Skilled in integrating advanced tools like LangChain and ChromaDB to deliver impactful, business-driven results across diverse domains.
+AI/ML developer with hands-on experience building and deploying intelligent applications, including NLP pipelines, vector search, and end-to-end machine learning solutions. Skilled in integrating advanced tools like LangChain and ChromaDB to deliver impactful, business-driven results across diverse domains
 
 
 ## Technical Skills
