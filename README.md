@@ -1,21 +1,10 @@
-<!-- # Yash Meshram  -->
-<!-- [Email](yashacmeshram@gmail.com) | [LinkedIn](https://www.linkedin.com/in/yash-meshram-762357179 ) | [GitHub](https://github.com/yash-meshram) -->
+# Yash Meshram
 
-<h1 style="display: flex; justify-content: space-between; align-items: center;">
-  <span>Yash Meshram</span>
-  <span style="font-size: 0.5em;">
-    <a href="https://www.linkedin.com/in/yash-meshram-762357179">LinkedIn</a> |
-    <a href="https://github.com/yash-meshram">GitHub</a>
-  </span>
-</h1>
-
-
+[Email](yashacmeshram@gmail.com) | [LinkedIn](https://www.linkedin.com/in/yash-meshram-762357179 ) | [GitHub](https://github.com/yash-meshram)
 
 ## Summary
 
 AI/ML developer with hands-on experience building and deploying intelligent applications, including NLP pipelines, vector search, and end-to-end machine learning solutions. Skilled in integrating advanced tools like LangChain and ChromaDB to deliver impactful, business-driven results across diverse domains
-
-
 
 ## Projects
 
@@ -51,10 +40,7 @@ AI/ML developer with hands-on experience building and deploying intelligent appl
 
 ## EXPERIENCE
 
-<div style="display: flex; justify-content: space-between;">
-  <span><strong>HCLTech - Technical Lead</strong></span>
-  <span>Oct 2022 - Present</span>
-</div>
+**HCLTech - Technical Lead** *(Oct 2022 - Present)*
 
 - Working with projects in the service department, providing support for multiple applications.
 - Proficiently work with .NET, SQL, and Excel to enhance application performance.
@@ -62,35 +48,22 @@ AI/ML developer with hands-on experience building and deploying intelligent appl
 
 
 
-
 ## Education
 
-<div style="display: flex; justify-content: space-between;">
-  <span><strong>Indian Institute of Technology, Gandhinagar</strong></span>
-  <span>2018 - 2022</span>
-</div>
+**Indian Institute of Technology, Gandhinagar** *(2018 - 2022)*
 
-*Bachelor of Technology, Mechanical Engineering*
+Bachelor of Technology, Mechanical Engineering
 
 
 
 ## Certifications
 
-<div style="display: flex; justify-content: space-between; gap: 2rem;">
-  <ul style="margin: 0; padding: 0 1rem;">
-    <li><a href="https://www.coursera.org/account/accomplishments/certificate/W4F4EO8GV7Y1">Supervised Machine Learning: Regression and Classification</a></li>
-    <li><a href="https://courses.nvidia.com/certificates/fc27e6170a754668ad34508e6a457711">Fundamentals of Deep Learning</a></li>
-    <li><a href="https://codebasics.io/certificate/CB-49-171739">Power BI: Data Analysis</a></li>
-  </ul>
-  <ul style="margin: 0; padding: 0 1rem;">
-    <li>Advanced Learning Algorithms (in-progress)</li>
-    <li><a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/264473edf8331ff511d6c7221b4f52b87b0a9994">Intermediate SQL Queries</a></li>
-    <li><a href="https://www.coursera.org/account/accomplishments/certificate/JQGBG33GHVLC">Fundamentals of Visualization with Tableau</a></li>
-  </ul>
-</div>
-
-
-
+- [Supervised Machine Learning: Regression and Classification](https://www.coursera.org/account/accomplishments/certificate/W4F4EO8GV7Y1)
+- Advanced Learning Algorithms (in-progress)
+- [Fundamentals of Deep Learning](https://courses.nvidia.com/certificates/fc27e6170a754668ad34508e6a457711)
+- [Intermediate SQL Queries](https://www.datacamp.com/completed/statement-of-accomplishment/course/264473edf8331ff511d6c7221b4f52b87b0a9994)
+- [Fundamentals of Visualization with Tableau](https://www.coursera.org/account/accomplishments/certificate/JQGBG33GHVLC)
+- [Power BI: Data Analysis](https://codebasics.io/certificate/CB-49-171739)
 
 
 ## Additional Information
