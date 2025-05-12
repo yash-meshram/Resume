@@ -4,24 +4,30 @@
 
 ## Summary
 
-AI/ML developer with hands-on experience building and deploying intelligent applications, including NLP pipelines, vector search, and end-to-end machine learning solutions. Skilled in integrating advanced tools like LangChain and ChromaDB to deliver impactful, business-driven results across diverse domains
+AI/ML developer with hands-on experience building real-world machine learning, deep learning, and generative AI solutions. Strong foundation in statistical analysis, model deployment, NLP, and LLM integration. Adept at solving complex business problems using data-driven approaches. Looking to transition into AI/ML Engineering or Data Science roles with a focus on impactful and scalable AI solutions.
 
 ## Projects
+
+### [AI powered PDF Question-Answering System using RAG Architecture](https://github.com/yash-meshram/rag-pdf-qa)
+- Built a RAG-based PDF QA system using Gemma 2 LLM and LangChain for intelligent context-aware responses.
+- Employed LangChain for chunking documents and managing query chains, and InMemoryVectorStore for efficient semantic search.
+- Enabled context-aware Q&A with document-specific responses using vector embeddings and prompt templates.
+- Developed an interactive Streamlit UI allowing drag-and-drop PDF input and real-time chat interface.
 
 ### [Cold Email Generator](https://github.com/yash-meshram/Cold-Email-Generator)
 - Developed an AI-powered app for personalized cold email generation using Llama 3 8B Instant via Groq API.
 - Automated job posting parsing and project matching with NLP pipelines and vector search (ChromaDB).
 - Built a Streamlit UI and integrated LangChain for advanced language modeling and relevance scoring.
 
-### [Bank Direct Marketing: Term Deposit Subscription Prediction](https://github.com/yash-meshram/Bank-Direct-Marketing)
-- Engineered a machine learning pipeline to predict term deposit subscriptions from complex data.
-- Tackled class imbalance with advanced resampling and robust feature encoding.
-- Achieved a cross-validated F1 score of 0.454 using CatBoostClassifier with hyperparameter tuning.
-
 ### [Insurance Premium Prediction](https://github.com/yash-meshram/Insurance-Premium)
 - Built an end-to-end regression solution for insurance premium prediction using LightGBM.
 - Automated data preprocessing, feature engineering, and model evaluation for improved accuracy.
 - Visualized feature importances and achieved a mean CV RMSLE of 1.0524.
+
+### [Bank Direct Marketing: Term Deposit Subscription Prediction](https://github.com/yash-meshram/Bank-Direct-Marketing)
+- Analyzed customer response data from marketing campaigns to improve targeting and retention strategies.
+- Engineered an ML pipeline using CatBoostClassifier to predict term deposit subscriptions for a bank.
+- Handled class imbalance and applied feature encoding, achieving a cross-validated F1 score of 0.454.
 
 ### [Machine Learning & Deep Learning Framework](https://github.com/yash-meshram/MachineLearning-DeepLearning)
 - Designed a modular framework for building and evaluating ML/DL models (NumPy, TensorFlow).
@@ -33,8 +39,8 @@ AI/ML developer with hands-on experience building and deploying intelligent appl
 
 - **Programming:** Python, SQL, C#
 - **Visualization:** Tableau, Microsoft Power BI, Excel Charts, Jupyter Notebook
-- **Frameworks/Libraries:** scikit-learn, TensorFlow, Keras, PyTorch, LightGBM, CatBoost, Pandas, NumPy, Matplotlib, Seaborn
-- **Worked on:** Data preprocessing, Feature engineering, Model evaluation, Cross-validation, Vector databases, API integration, Data Science, Data Analysis, Machine Learning, Computer Vision, Deep Learning, Angular, .NET.
+- **Frameworks/Libraries:** LangChain, Huggingface Transformers, Streamlit, TensorFlow, Scikit-learn, CatBoost, ChromaDB (Vector Database), Keras, Matplotlib, Seaborn, Pandas, NumPy, etc.
+- **Worked on:** Retrieval-Augmented Generation(RAG), Data Science, Deep Learning Machine Learning, Data preprocessing, Feature engineering, Model evaluation, Cross-validation, Vector databases, API integration, Data Analysis, Computer Vision, Angular, .NET.
 
 
 
